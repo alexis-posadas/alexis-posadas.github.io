@@ -1,1 +1,9 @@
+//partials
 @import "partials/global";
+@import "partials/reset";
+@import "partials/variables";
+//pages
+@import "pages/nav";
+@import "pages/header";
+@import "pages/main";
+@import "pages/footer";
